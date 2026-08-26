@@ -446,6 +446,21 @@ Alguns dos prompts utilizados neste projeto podem ser adaptados para diferentes 
 
 > Responda utilizando exclusivamente informações presentes nas fontes fornecidas. Quando uma informação não estiver disponível nas fontes, informe explicitamente essa limitação em vez de complementar a resposta com conhecimento externo.
 
+# Evidências do Projeto
+
+## Fontes utilizadas no NotebookLM
+
+Abaixo estão as fontes adicionadas ao NotebookLM para construção do estudo:
+
+![Fontes utilizadas no NotebookLM](images/Fontes.png)
+
+## Exemplo de Prompt e Resultado
+
+Exemplo de interação realizada durante o desenvolvimento do projeto:
+
+![Exemplo de Prompt e Resultado](images/prompt-resultado.png)
+
+
 ---
 
 # Conclusão
